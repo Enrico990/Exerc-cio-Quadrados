@@ -1,5 +1,4 @@
-# Exerc-cio-Quadrados
-Feito para exercitar a imaginação de um iniciante em programação.
+# Exercicio-Quadrados
 Faça um programa que leia um inteiro positivo qualquer e um caractere que indica o tipo de quadrado (de lado l) a ser impresso na tela utilizando o caractere '*'. Se o caractere for:
 
 'c', imprima um quadrado totalmente preenchido;
